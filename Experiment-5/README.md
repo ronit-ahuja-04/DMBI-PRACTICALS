@@ -6,7 +6,7 @@
 Classify `Churn` on the Food Delivery Customer Churn dataset with Decision Tree (Gini / Entropy) and Gaussian Naïve Bayes, using library calls and user-defined functions, and compare accuracy, precision, recall and confusion matrices.
 
 ## Files
-- `DMBI Experiment 5 classification using python.pdf` — report
+- `DMBI_Experiment_5_Classification_Python_Ronit_Ahuja.pdf` — report
 - `Experiment-5_Classification_Decision_Tree_Naive_Bayes.ipynb` — executed notebook (runs in Colab or locally with the CSV in the same folder)
 - `Food_Delivery_Customer_Churn.csv` — dataset
 
@@ -17,3 +17,6 @@ Classify `Churn` on the Food Delivery Customer Churn dataset with Decision Tree 
 | User-defined Decision Tree (Entropy) | 74% | 0.47 |
 | Inbuilt Naïve Bayes | 74% | 0.58 |
 | User-defined Naïve Bayes | 74% | 0.58 |
+| Control: inbuilt Decision Tree (Entropy) | 74% | 0.47 |
+
+The control run shows the 72% vs 74% gap comes from Gini vs Entropy, not from the function wrapper (predictions are identical to the user-defined tree).
