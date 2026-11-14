@@ -26,7 +26,7 @@
           <parameter key="ratio" value="0.2"/>
         </enumeration>
         <parameter key="sampling_type" value="automatic"/>
-        <parameter key="use_local_random_seed" value="false"/>
+        <parameter key="use_local_random_seed" value="true"/>
         <parameter key="local_random_seed" value="1992"/>
       </operator>
       <operator activated="true" class="naive_bayes" compatibility="12.1.001" expanded="true" height="82" name="Naive Bayes" width="90" x="514" y="136">
