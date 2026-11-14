@@ -6,7 +6,7 @@
 Segment the Food Delivery Customer Churn dataset in Altair AI Studio with k-Means, Agglomerative clustering and DBSCAN (Select Attributes → Replace Missing Values → Z-score Normalize → clustering) and compare the results.
 
 ## Files
-- `DMBI_Experiment_7_Clustering_RapidMiner_Ronit_Ahuja.pdf` — report
+- `DMBI_Experiment_7_Clustering_RapidMiner_Ronit_Ahuja.pdf` — report (includes AI Studio screenshots of the k-Means process and its results)
 - `Experiment_7_Clustering_RapidMiner.rmp` — RapidMiner process with all three algorithms
 - `Experiment_7_KMeans_RapidMiner.rmp` — RapidMiner process with k-Means only
 - `Food_Delivery_Customer_Churn.csv` — dataset
