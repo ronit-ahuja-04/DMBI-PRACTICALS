@@ -12,3 +12,6 @@ K-Means on Age, Orders_Per_Month, Average_Order_Value, Tenure_Months with the El
 
 ## Key results
 K = 3; clusters of 184 / 164 / 152 customers; silhouette 0.1869; inertia 1353.65.
+
+## Run
+Open the notebook in Colab or Jupyter with `Food_Delivery_Customer_Churn.csv` in the same folder (the first cell loads it).

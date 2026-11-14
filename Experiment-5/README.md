@@ -7,7 +7,7 @@ Decision Tree (Gini / Entropy) and Gaussian Naïve Bayes using library calls and
 
 ## Files
 - `DMBI Experiment 5 classification using python.pdf` — report
-- `Experiment-5_Classification_Decision_Tree_Naive_Bayes.ipynb` — notebook (loads the CSV from `/content/` in Colab; change the path to run locally)
+- `Experiment-5_Classification_Decision_Tree_Naive_Bayes.ipynb` — notebook (runs in Colab or locally with the CSV next to it)
 - `Food_Delivery_Customer_Churn.csv` — dataset
 
 ## Key results

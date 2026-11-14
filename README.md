@@ -18,4 +18,4 @@ Dataset for Exp 4–9: `Food_Delivery_Customer_Churn.csv` (500 records, 11 attri
 | [8](Experiment-8) | Association Rule Mining (FP-Growth) using RapidMiner |
 | [9](Experiment-9) | Association Rule Mining using Apriori (Python) |
 
-Python notebooks were written for Google Colab; to run them locally place the CSV next to the notebook and adjust the load path.
+Python notebooks run in Google Colab or locally (keep the CSV in the same folder as the notebook).
