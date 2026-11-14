@@ -1,0 +1,501 @@
+Age,City,Subscription_Type,Orders_Per_Month,Average_Order_Value,Average_Delivery_Time,Discount_Usage,Favorite_Category,Device,Tenure_Months,Churn
+56,Thane,Free,2,151,36,39,Indian,Android,4,Retained
+46,Mumbai,Free,8,738,42,13,Chinese,Web,11,Retained
+32,Pune,Free,13,793,21,34,Indian,iOS,31,Churned
+60,Navi Mumbai,Premium,13,239,49,47,Mexican,Android,43,Retained
+25,Navi Mumbai,Free,1,499,69,83,Burgers,iOS,32,Churned
+38,Pune,Premium,6,1058,42,55,Indian,Web,27,Retained
+56,Thane,Premium,19,308,28,48,Mexican,Web,30,Retained
+36,Navi Mumbai,Free,16,1108,70,12,Burgers,Web,43,Retained
+40,Mumbai,Free,8,461,24,60,Pizza,Web,2,Churned
+28,Navi Mumbai,Free,1,594,30,48,Indian,iOS,9,Retained
+28,Mumbai,Free,16,447,30,45,Indian,Android,28,Retained
+41,Pune,Premium,9,1101,68,61,Pizza,Web,31,Retained
+53,Mumbai,Free,13,185,45,7,Pizza,Web,34,Retained
+57,Pune,Free,11,708,56,42,Indian,iOS,15,Retained
+41,Mumbai,Free,13,1040,39,19,Pizza,iOS,48,Retained
+20,Pune,Free,10,290,27,96,Chinese,Web,25,Retained
+39,Mumbai,Premium,4,1036,20,89,Burgers,Android,36,Churned
+19,Thane,Free,6,875,58,38,Burgers,Android,8,Churned
+41,Mumbai,Free,7,1199,23,84,Burgers,Web,9,Churned
+47,Mumbai,Premium,5,670,59,48,Chinese,iOS,37,Retained
+55,Thane,Premium,11,159,50,63,Pizza,Web,48,Retained
+19,Navi Mumbai,Free,13,1133,70,61,Mexican,Web,45,Churned
+38,Navi Mumbai,Free,19,527,57,53,Pizza,iOS,39,Retained
+50,Mumbai,Free,10,831,34,8,Indian,Web,32,Retained
+29,Thane,Free,10,733,32,87,Burgers,Web,17,Churned
+39,Mumbai,Free,11,301,57,36,Pizza,Web,35,Churned
+42,Pune,Free,7,869,35,48,Mexican,iOS,37,Churned
+44,Pune,Free,18,1008,18,40,Indian,Android,19,Retained
+59,Mumbai,Free,4,199,64,16,Chinese,Android,44,Retained
+45,Navi Mumbai,Premium,2,813,47,87,Chinese,iOS,29,Churned
+33,Navi Mumbai,Free,14,680,41,20,Mexican,Android,7,Retained
+32,Mumbai,Free,13,1006,21,50,Indian,Web,28,Retained
+20,Mumbai,Free,12,295,20,58,Burgers,Android,9,Retained
+54,Pune,Premium,7,1064,29,38,Pizza,Web,28,Retained
+24,Navi Mumbai,Free,2,1142,32,54,Indian,Android,6,Churned
+38,Mumbai,Free,13,391,46,40,Chinese,iOS,29,Retained
+26,Pune,Premium,14,730,70,38,Mexican,Android,17,Retained
+56,Navi Mumbai,Premium,17,836,25,12,Mexican,Android,16,Retained
+35,Thane,Premium,9,632,34,63,Pizza,Android,23,Churned
+21,Pune,Free,17,822,38,10,Mexican,iOS,31,Retained
+42,Navi Mumbai,Free,8,780,29,18,Mexican,Android,3,Retained
+31,Navi Mumbai,Premium,2,810,62,10,Indian,iOS,21,Churned
+26,Pune,Premium,13,811,21,76,Burgers,Web,26,Retained
+43,Thane,Free,3,954,35,45,Pizza,Android,36,Churned
+19,Pune,Free,16,568,56,44,Indian,iOS,42,Churned
+37,Navi Mumbai,Free,6,1137,40,0,Burgers,iOS,37,Retained
+45,Mumbai,Premium,19,799,58,39,Indian,Android,22,Retained
+24,Mumbai,Free,7,1118,70,18,Indian,Web,42,Retained
+25,Pune,Free,10,739,28,75,Mexican,iOS,12,Churned
+52,Navi Mumbai,Free,9,658,51,71,Burgers,Android,42,Churned
+31,Mumbai,Free,2,590,35,71,Pizza,Web,13,Churned
+34,Navi Mumbai,Free,15,1070,32,60,Pizza,iOS,11,Retained
+53,Pune,Free,5,919,19,11,Burgers,iOS,16,Retained
+57,Mumbai,Premium,4,412,17,60,Mexican,Web,8,Retained
+21,Navi Mumbai,Free,20,786,37,32,Chinese,Web,40,Retained
+19,Mumbai,Free,4,608,40,44,Indian,Android,40,Churned
+23,Pune,Free,18,1148,51,89,Mexican,Android,45,Retained
+59,Navi Mumbai,Free,4,849,38,91,Burgers,iOS,2,Churned
+21,Mumbai,Free,17,451,63,68,Indian,Web,30,Retained
+46,Pune,Free,12,703,33,7,Pizza,Web,30,Retained
+35,Mumbai,Free,17,437,65,24,Chinese,Web,12,Retained
+43,Mumbai,Free,10,770,39,90,Pizza,iOS,10,Retained
+51,Thane,Free,1,1155,35,45,Burgers,Web,44,Churned
+27,Thane,Premium,18,185,26,86,Indian,Web,11,Churned
+53,Pune,Free,18,893,55,29,Burgers,iOS,15,Retained
+31,Thane,Premium,14,502,47,46,Indian,Android,16,Retained
+48,Pune,Free,15,222,64,86,Mexican,Android,17,Churned
+32,Thane,Premium,12,797,67,48,Chinese,iOS,26,Retained
+25,Mumbai,Premium,4,574,18,46,Mexican,Web,2,Retained
+31,Pune,Free,3,1148,56,83,Mexican,iOS,12,Retained
+40,Pune,Free,20,857,21,81,Burgers,Android,26,Retained
+57,Mumbai,Free,12,710,36,17,Chinese,Android,23,Retained
+38,Pune,Free,7,977,69,65,Indian,iOS,18,Churned
+33,Pune,Premium,11,1105,47,67,Indian,iOS,32,Churned
+35,Thane,Premium,1,666,31,93,Pizza,Android,38,Churned
+41,Pune,Premium,6,577,38,32,Indian,iOS,47,Retained
+43,Navi Mumbai,Free,15,309,48,35,Burgers,Android,3,Churned
+42,Mumbai,Premium,15,298,42,81,Mexican,iOS,38,Retained
+58,Thane,Premium,19,925,57,100,Mexican,iOS,3,Churned
+46,Thane,Free,11,216,55,18,Mexican,iOS,30,Retained
+32,Navi Mumbai,Free,2,1163,53,27,Chinese,Android,1,Churned
+18,Mumbai,Premium,14,530,36,39,Indian,iOS,30,Churned
+42,Mumbai,Free,2,207,63,83,Burgers,Android,45,Churned
+24,Thane,Premium,4,491,31,96,Chinese,Android,32,Retained
+26,Pune,Free,17,876,48,75,Pizza,iOS,28,Retained
+41,Thane,Premium,3,919,20,14,Burgers,iOS,21,Retained
+18,Mumbai,Free,13,763,60,40,Burgers,Android,46,Churned
+25,Navi Mumbai,Free,9,503,20,38,Burgers,Android,13,Retained
+41,Thane,Free,7,265,48,1,Mexican,Web,27,Churned
+28,Mumbai,Premium,15,811,15,62,Burgers,Android,36,Retained
+34,Thane,Premium,11,602,24,28,Indian,Web,7,Retained
+25,Pune,Free,20,436,35,73,Burgers,Web,22,Retained
+52,Thane,Free,2,1166,19,65,Mexican,Web,10,Retained
+52,Thane,Premium,15,460,16,50,Burgers,iOS,39,Retained
+50,Mumbai,Free,14,357,36,74,Pizza,iOS,15,Retained
+22,Mumbai,Premium,20,767,62,76,Pizza,Android,15,Retained
+59,Mumbai,Free,11,595,16,9,Mexican,Web,4,Retained
+56,Thane,Free,3,819,24,13,Indian,iOS,32,Retained
+58,Pune,Free,17,782,48,81,Indian,iOS,23,Churned
+45,Navi Mumbai,Free,12,204,30,50,Chinese,iOS,6,Churned
+24,Navi Mumbai,Premium,15,1061,62,72,Mexican,iOS,24,Churned
+26,Mumbai,Free,16,1185,65,38,Burgers,iOS,20,Retained
+25,Mumbai,Free,5,806,53,27,Mexican,Web,37,Retained
+29,Thane,Premium,20,1129,36,2,Chinese,Web,20,Retained
+51,Navi Mumbai,Free,6,664,26,83,Mexican,Web,12,Churned
+50,Mumbai,Free,19,386,38,69,Mexican,Web,33,Retained
+40,Pune,Premium,5,497,61,26,Chinese,Android,28,Retained
+41,Pune,Premium,3,776,54,1,Indian,Web,8,Churned
+54,Mumbai,Free,1,779,52,92,Burgers,iOS,1,Churned
+52,Mumbai,Premium,6,513,24,37,Chinese,Web,37,Retained
+57,Navi Mumbai,Premium,15,470,49,2,Pizza,Android,22,Retained
+39,Navi Mumbai,Free,2,435,65,15,Indian,iOS,6,Retained
+44,Thane,Free,3,298,63,93,Pizza,Web,21,Churned
+52,Navi Mumbai,Premium,17,555,46,39,Indian,Web,32,Retained
+18,Pune,Premium,12,1127,21,1,Burgers,Web,35,Retained
+52,Pune,Free,18,605,35,80,Burgers,iOS,15,Retained
+54,Mumbai,Premium,15,949,34,40,Mexican,iOS,5,Retained
+31,Navi Mumbai,Premium,12,1162,40,11,Pizza,Android,46,Retained
+20,Thane,Free,16,933,18,34,Indian,iOS,48,Retained
+18,Pune,Free,8,609,60,64,Burgers,iOS,6,Churned
+22,Pune,Free,14,887,66,54,Chinese,Web,25,Churned
+43,Thane,Premium,17,658,36,44,Burgers,iOS,46,Retained
+31,Thane,Free,8,630,29,78,Chinese,Web,40,Churned
+56,Pune,Free,15,263,70,89,Indian,Web,29,Retained
+44,Pune,Premium,14,898,54,100,Burgers,iOS,7,Churned
+26,Thane,Premium,18,510,35,84,Burgers,Android,40,Retained
+32,Pune,Free,20,490,29,61,Indian,Android,13,Retained
+32,Mumbai,Premium,7,919,36,48,Burgers,iOS,38,Retained
+43,Mumbai,Free,3,910,66,94,Chinese,Android,18,Churned
+59,Thane,Premium,12,1118,42,24,Burgers,Web,2,Churned
+30,Navi Mumbai,Free,3,598,28,22,Pizza,Web,8,Churned
+49,Thane,Free,20,984,41,23,Mexican,iOS,11,Retained
+56,Thane,Premium,14,460,55,37,Chinese,Android,33,Churned
+49,Navi Mumbai,Free,15,411,54,27,Pizza,Android,38,Churned
+21,Navi Mumbai,Free,14,555,42,20,Indian,Web,48,Retained
+47,Navi Mumbai,Premium,7,292,40,53,Chinese,iOS,27,Churned
+54,Mumbai,Premium,17,491,63,17,Mexican,Android,20,Retained
+40,Pune,Premium,12,393,16,35,Mexican,iOS,12,Retained
+56,Mumbai,Premium,20,639,39,98,Indian,Android,43,Retained
+32,Pune,Free,4,161,70,44,Indian,Web,31,Retained
+60,Mumbai,Free,9,710,17,72,Chinese,Web,27,Retained
+46,Pune,Free,6,191,22,52,Burgers,iOS,32,Retained
+53,Mumbai,Free,16,827,58,29,Indian,Web,10,Retained
+30,Navi Mumbai,Premium,2,743,47,59,Burgers,Android,3,Churned
+49,Thane,Free,8,283,56,97,Pizza,Web,45,Retained
+24,Mumbai,Free,11,1180,66,31,Mexican,iOS,27,Retained
+39,Pune,Free,13,1097,49,66,Burgers,iOS,35,Retained
+45,Navi Mumbai,Premium,17,222,20,66,Mexican,iOS,31,Retained
+19,Mumbai,Free,8,548,53,27,Burgers,Android,15,Churned
+59,Mumbai,Free,18,727,66,43,Pizza,Android,16,Churned
+23,Navi Mumbai,Free,18,1008,37,78,Indian,Android,13,Retained
+45,Mumbai,Premium,14,279,39,40,Pizza,Android,35,Churned
+45,Thane,Free,15,1080,64,62,Indian,Android,11,Retained
+37,Mumbai,Premium,6,415,57,22,Indian,Web,21,Churned
+47,Thane,Premium,11,942,33,74,Mexican,Android,11,Churned
+28,Thane,Free,13,402,19,47,Pizza,Android,30,Retained
+45,Navi Mumbai,Premium,1,971,65,31,Burgers,Web,48,Churned
+42,Mumbai,Premium,6,313,25,56,Pizza,Android,35,Retained
+56,Navi Mumbai,Premium,9,244,70,99,Mexican,iOS,22,Churned
+50,Mumbai,Free,8,982,26,32,Indian,Android,38,Retained
+18,Mumbai,Free,11,485,24,23,Mexican,Android,31,Retained
+44,Pune,Premium,19,971,22,38,Chinese,iOS,14,Retained
+30,Mumbai,Free,9,387,38,33,Chinese,iOS,24,Retained
+58,Navi Mumbai,Premium,17,530,42,55,Burgers,iOS,32,Retained
+20,Thane,Premium,12,1048,55,27,Mexican,iOS,36,Retained
+56,Mumbai,Premium,14,632,50,36,Burgers,Android,32,Churned
+23,Pune,Free,15,1051,51,6,Burgers,iOS,15,Retained
+25,Navi Mumbai,Free,16,1198,35,67,Chinese,iOS,43,Retained
+44,Mumbai,Premium,20,631,22,36,Burgers,Web,35,Retained
+26,Navi Mumbai,Premium,1,1066,69,55,Chinese,iOS,3,Churned
+54,Pune,Free,10,1143,23,64,Indian,iOS,16,Retained
+50,Pune,Premium,8,1113,61,64,Mexican,Web,5,Churned
+59,Navi Mumbai,Premium,18,686,29,46,Burgers,Web,21,Retained
+41,Mumbai,Free,1,1185,62,19,Chinese,Android,10,Churned
+32,Thane,Free,2,277,60,18,Pizza,Web,19,Retained
+49,Pune,Free,1,241,54,28,Burgers,Android,25,Churned
+49,Mumbai,Free,1,692,32,73,Indian,Web,4,Churned
+41,Mumbai,Free,9,995,56,59,Indian,Web,29,Churned
+58,Thane,Premium,13,1138,34,17,Pizza,Android,19,Retained
+29,Pune,Free,1,596,20,91,Chinese,Web,43,Retained
+56,Pune,Free,13,539,26,34,Burgers,Android,2,Retained
+19,Mumbai,Free,20,821,16,42,Chinese,Web,10,Retained
+20,Mumbai,Free,7,192,21,94,Indian,iOS,43,Churned
+54,Thane,Premium,2,403,30,90,Chinese,Web,25,Churned
+34,Thane,Free,6,812,17,10,Indian,Android,20,Retained
+19,Pune,Free,7,616,59,48,Chinese,Web,48,Churned
+19,Navi Mumbai,Premium,14,436,17,37,Pizza,Android,19,Retained
+45,Pune,Free,18,1160,41,63,Mexican,Android,23,Retained
+40,Mumbai,Free,15,927,64,68,Pizza,iOS,24,Retained
+54,Pune,Free,2,494,57,7,Pizza,iOS,11,Churned
+49,Navi Mumbai,Free,10,791,54,33,Mexican,Android,46,Churned
+50,Thane,Free,12,531,52,47,Mexican,Web,34,Retained
+18,Navi Mumbai,Free,17,839,47,55,Burgers,Android,28,Retained
+36,Navi Mumbai,Free,8,606,42,75,Burgers,Android,5,Churned
+19,Navi Mumbai,Premium,11,1132,15,64,Pizza,Web,5,Retained
+43,Thane,Free,3,232,69,30,Pizza,Web,21,Retained
+49,Navi Mumbai,Free,6,298,22,3,Indian,Web,12,Retained
+23,Navi Mumbai,Premium,9,339,51,49,Indian,Web,4,Churned
+49,Navi Mumbai,Free,6,1032,46,68,Burgers,Android,42,Churned
+21,Mumbai,Premium,9,412,62,29,Burgers,Android,20,Retained
+28,Navi Mumbai,Free,7,549,57,87,Indian,iOS,38,Churned
+34,Thane,Premium,9,913,51,58,Indian,Android,25,Retained
+55,Navi Mumbai,Free,18,758,18,66,Chinese,Web,14,Retained
+41,Navi Mumbai,Free,12,934,44,74,Chinese,iOS,11,Churned
+22,Thane,Free,8,250,20,44,Indian,Web,32,Retained
+51,Navi Mumbai,Premium,8,969,60,3,Chinese,Android,11,Retained
+23,Thane,Free,18,969,68,25,Mexican,iOS,18,Churned
+39,Navi Mumbai,Free,20,569,33,26,Burgers,Web,27,Retained
+28,Thane,Free,15,273,46,45,Burgers,iOS,18,Retained
+33,Navi Mumbai,Premium,7,571,23,63,Indian,iOS,23,Retained
+50,Navi Mumbai,Free,11,917,26,90,Pizza,Android,11,Retained
+26,Mumbai,Premium,20,632,25,50,Indian,Web,21,Retained
+23,Mumbai,Free,16,668,60,49,Chinese,iOS,44,Retained
+33,Navi Mumbai,Free,4,304,69,5,Pizza,iOS,5,Churned
+46,Navi Mumbai,Free,6,241,30,58,Chinese,Web,23,Retained
+20,Pune,Free,3,1131,15,14,Mexican,iOS,41,Retained
+37,Thane,Free,9,604,59,29,Chinese,iOS,25,Churned
+53,Pune,Free,10,747,69,41,Mexican,iOS,41,Churned
+36,Mumbai,Premium,14,659,67,100,Mexican,Web,10,Churned
+43,Mumbai,Free,11,535,35,36,Chinese,Web,22,Churned
+20,Mumbai,Free,18,554,44,41,Chinese,Web,19,Retained
+36,Mumbai,Free,12,395,27,100,Mexican,Web,1,Churned
+37,Navi Mumbai,Free,12,891,48,34,Pizza,Android,7,Churned
+49,Mumbai,Free,13,810,18,86,Mexican,iOS,4,Retained
+24,Navi Mumbai,Free,13,799,42,5,Burgers,Web,1,Retained
+58,Navi Mumbai,Free,19,1050,52,67,Mexican,iOS,15,Churned
+50,Mumbai,Premium,19,214,45,17,Pizza,iOS,40,Retained
+57,Mumbai,Premium,14,1186,69,72,Burgers,Android,12,Retained
+56,Thane,Free,4,362,41,28,Indian,Web,22,Churned
+35,Pune,Free,13,391,19,76,Indian,Web,22,Retained
+57,Mumbai,Premium,8,642,39,58,Pizza,iOS,47,Retained
+18,Thane,Free,19,487,17,46,Mexican,Web,17,Churned
+28,Thane,Free,12,322,47,16,Chinese,iOS,29,Retained
+45,Pune,Free,18,821,18,95,Pizza,iOS,46,Retained
+42,Navi Mumbai,Premium,6,313,39,21,Burgers,Android,14,Retained
+40,Mumbai,Premium,18,614,34,67,Burgers,Android,20,Retained
+48,Pune,Free,19,1144,48,68,Indian,Android,48,Churned
+47,Mumbai,Free,5,646,40,36,Burgers,iOS,33,Churned
+59,Thane,Free,9,849,19,48,Pizza,Web,43,Churned
+52,Thane,Premium,3,544,49,12,Burgers,Android,15,Retained
+24,Navi Mumbai,Free,10,852,42,33,Pizza,Web,12,Retained
+33,Thane,Free,19,457,43,85,Chinese,Android,40,Retained
+43,Thane,Premium,3,332,23,52,Indian,Android,20,Retained
+19,Pune,Free,15,778,66,86,Burgers,iOS,30,Churned
+18,Mumbai,Premium,1,659,52,50,Pizza,Android,38,Churned
+29,Mumbai,Free,7,695,64,2,Mexican,Android,3,Retained
+22,Pune,Free,12,773,20,41,Indian,iOS,28,Retained
+54,Navi Mumbai,Free,17,743,33,97,Chinese,Web,26,Churned
+49,Mumbai,Premium,20,893,58,31,Pizza,Android,30,Retained
+26,Thane,Premium,5,703,25,50,Chinese,iOS,13,Retained
+58,Mumbai,Premium,4,170,16,84,Chinese,Android,13,Churned
+52,Thane,Free,12,703,61,45,Burgers,iOS,2,Churned
+36,Navi Mumbai,Premium,20,546,58,20,Burgers,Web,37,Retained
+33,Pune,Free,18,774,58,43,Pizza,Web,38,Retained
+20,Mumbai,Free,17,254,23,10,Mexican,iOS,2,Retained
+37,Pune,Premium,19,341,35,67,Pizza,iOS,36,Retained
+41,Mumbai,Free,9,166,38,0,Mexican,iOS,26,Retained
+50,Thane,Free,4,542,48,91,Chinese,Web,11,Churned
+41,Pune,Free,2,574,36,62,Indian,Android,8,Retained
+28,Mumbai,Free,4,278,17,23,Pizza,Web,44,Retained
+25,Thane,Free,2,721,26,98,Pizza,iOS,40,Retained
+53,Pune,Free,15,178,42,12,Mexican,iOS,43,Retained
+55,Pune,Free,2,1183,44,97,Chinese,Web,22,Churned
+57,Mumbai,Premium,4,391,40,10,Chinese,iOS,20,Retained
+37,Mumbai,Premium,6,381,62,99,Mexican,Web,8,Churned
+52,Mumbai,Free,7,938,35,50,Chinese,iOS,29,Retained
+42,Thane,Free,10,864,42,16,Burgers,Android,40,Retained
+52,Mumbai,Free,19,908,70,98,Indian,Android,26,Churned
+42,Pune,Free,19,951,40,81,Pizza,iOS,30,Retained
+46,Pune,Free,12,925,47,85,Indian,Web,17,Churned
+35,Mumbai,Premium,3,875,35,23,Pizza,Android,20,Retained
+35,Mumbai,Free,13,349,49,18,Burgers,Web,16,Retained
+19,Navi Mumbai,Free,18,1094,66,36,Chinese,iOS,46,Retained
+52,Pune,Free,8,228,48,84,Mexican,Web,43,Churned
+33,Thane,Free,15,1105,55,7,Burgers,Android,7,Retained
+58,Navi Mumbai,Premium,1,1005,65,27,Indian,Web,16,Churned
+53,Mumbai,Premium,3,616,61,4,Mexican,Web,45,Retained
+50,Mumbai,Free,8,730,32,16,Chinese,iOS,47,Retained
+21,Pune,Premium,4,1089,25,100,Burgers,iOS,48,Churned
+50,Mumbai,Free,16,598,37,35,Mexican,iOS,27,Retained
+31,Thane,Premium,10,236,62,18,Burgers,Android,23,Retained
+38,Pune,Premium,12,250,36,63,Burgers,Android,24,Retained
+37,Mumbai,Free,14,1181,31,90,Chinese,iOS,9,Retained
+25,Pune,Free,14,994,19,97,Pizza,iOS,35,Retained
+24,Mumbai,Free,2,236,58,10,Mexican,Android,20,Churned
+20,Mumbai,Free,5,192,25,53,Chinese,Android,37,Retained
+34,Mumbai,Premium,5,557,44,44,Burgers,Android,42,Retained
+50,Thane,Free,6,813,29,46,Chinese,Android,17,Retained
+29,Thane,Free,13,1190,41,11,Pizza,iOS,47,Retained
+39,Pune,Premium,9,297,49,20,Mexican,Android,31,Retained
+39,Mumbai,Premium,15,426,47,10,Pizza,iOS,8,Retained
+47,Mumbai,Free,14,381,34,91,Indian,Web,15,Retained
+55,Thane,Free,7,515,30,4,Mexican,Web,31,Churned
+55,Mumbai,Free,20,585,48,80,Pizza,Android,30,Churned
+25,Thane,Free,2,548,16,55,Burgers,Web,46,Retained
+44,Mumbai,Premium,7,648,49,19,Mexican,Web,20,Churned
+44,Pune,Free,6,689,54,40,Mexican,Web,39,Churned
+51,Mumbai,Free,17,712,70,45,Chinese,Android,12,Retained
+38,Mumbai,Free,2,591,42,11,Burgers,Android,17,Retained
+47,Navi Mumbai,Free,3,922,61,69,Indian,Web,42,Churned
+50,Thane,Premium,5,499,53,16,Pizza,iOS,30,Retained
+45,Mumbai,Premium,5,669,20,18,Chinese,Web,29,Retained
+50,Mumbai,Free,1,287,23,25,Pizza,Android,19,Churned
+22,Navi Mumbai,Free,8,1141,34,47,Indian,Android,46,Churned
+36,Navi Mumbai,Free,12,517,15,51,Indian,Android,11,Retained
+21,Thane,Premium,4,509,22,95,Mexican,Web,34,Churned
+52,Navi Mumbai,Premium,13,1070,69,69,Indian,iOS,7,Churned
+34,Pune,Free,15,478,37,54,Pizza,Android,44,Churned
+45,Navi Mumbai,Premium,11,1111,17,99,Burgers,Android,34,Retained
+47,Pune,Premium,10,612,18,74,Burgers,Web,20,Retained
+46,Thane,Free,3,1095,39,32,Mexican,iOS,38,Retained
+23,Thane,Premium,14,1112,61,61,Pizza,Web,24,Retained
+52,Thane,Free,16,985,52,87,Pizza,Android,10,Churned
+58,Thane,Free,10,318,29,22,Indian,iOS,32,Retained
+54,Thane,Free,10,366,35,14,Pizza,iOS,15,Retained
+41,Pune,Free,12,527,49,26,Chinese,Android,37,Retained
+46,Pune,Free,9,268,67,74,Indian,iOS,20,Churned
+48,Thane,Premium,1,339,67,63,Chinese,iOS,3,Churned
+52,Navi Mumbai,Free,5,916,60,80,Mexican,Web,37,Churned
+50,Mumbai,Premium,20,519,66,50,Burgers,Android,40,Retained
+38,Thane,Free,8,298,28,52,Mexican,Android,8,Retained
+49,Navi Mumbai,Free,11,801,50,77,Burgers,Android,40,Retained
+40,Mumbai,Free,12,919,26,90,Mexican,Android,44,Churned
+50,Thane,Free,1,523,31,81,Pizza,Android,23,Churned
+20,Thane,Premium,20,930,53,91,Chinese,iOS,40,Churned
+35,Pune,Free,11,309,23,50,Burgers,Web,11,Churned
+42,Mumbai,Free,5,500,49,46,Indian,Android,46,Churned
+59,Mumbai,Free,15,1041,27,3,Chinese,Web,8,Retained
+48,Navi Mumbai,Premium,5,672,29,6,Indian,Web,29,Retained
+20,Pune,Premium,12,671,32,34,Chinese,iOS,30,Retained
+57,Pune,Premium,5,932,65,47,Chinese,Android,10,Churned
+41,Pune,Free,17,422,47,72,Mexican,iOS,39,Churned
+49,Pune,Free,17,1085,20,71,Burgers,Android,28,Churned
+39,Mumbai,Free,12,332,41,44,Burgers,iOS,36,Churned
+40,Mumbai,Free,15,637,37,80,Chinese,Web,13,Churned
+19,Thane,Free,15,995,41,80,Pizza,Android,32,Retained
+44,Thane,Free,6,273,48,96,Pizza,Web,36,Churned
+59,Pune,Free,12,1134,70,95,Indian,Web,37,Churned
+19,Pune,Free,20,939,60,71,Indian,iOS,26,Churned
+43,Pune,Premium,18,563,52,18,Mexican,Android,22,Retained
+34,Thane,Free,14,835,28,62,Chinese,Web,4,Retained
+57,Navi Mumbai,Free,2,262,50,37,Indian,iOS,31,Retained
+50,Navi Mumbai,Premium,9,1037,67,66,Indian,Android,18,Retained
+26,Thane,Free,5,271,22,58,Chinese,Android,38,Retained
+60,Thane,Premium,20,188,49,68,Mexican,Web,24,Retained
+56,Thane,Free,1,646,33,12,Indian,Android,23,Retained
+46,Thane,Free,3,929,44,46,Mexican,Web,22,Churned
+59,Thane,Premium,6,1092,28,60,Burgers,Android,2,Churned
+43,Thane,Premium,5,298,34,30,Mexican,iOS,31,Retained
+52,Pune,Premium,5,1171,63,79,Pizza,Web,11,Retained
+42,Pune,Free,1,810,39,95,Pizza,Web,28,Churned
+41,Pune,Free,17,451,54,21,Mexican,Android,46,Retained
+30,Pune,Free,19,387,38,92,Pizza,Android,32,Churned
+24,Thane,Free,14,796,28,85,Burgers,Web,5,Churned
+53,Navi Mumbai,Premium,12,812,40,42,Chinese,Android,38,Churned
+37,Mumbai,Free,10,385,52,66,Pizza,iOS,10,Churned
+18,Thane,Premium,20,352,37,53,Pizza,Android,40,Retained
+25,Mumbai,Free,18,405,36,9,Mexican,iOS,46,Retained
+33,Navi Mumbai,Free,11,747,62,41,Burgers,iOS,24,Churned
+31,Pune,Free,2,811,33,63,Chinese,iOS,35,Retained
+29,Navi Mumbai,Premium,18,384,60,20,Mexican,iOS,44,Retained
+40,Thane,Premium,7,683,65,79,Mexican,iOS,48,Retained
+32,Pune,Premium,15,1009,17,75,Burgers,Android,23,Retained
+45,Thane,Premium,11,919,56,65,Chinese,iOS,17,Churned
+51,Pune,Premium,18,690,33,40,Burgers,Android,1,Retained
+19,Mumbai,Premium,12,362,23,23,Chinese,iOS,31,Retained
+49,Mumbai,Free,6,612,42,34,Burgers,Web,31,Churned
+40,Mumbai,Free,20,585,34,55,Mexican,iOS,42,Retained
+39,Navi Mumbai,Free,13,432,59,29,Mexican,Web,42,Retained
+42,Thane,Premium,20,237,21,56,Indian,iOS,34,Retained
+39,Navi Mumbai,Premium,16,610,28,93,Pizza,iOS,9,Churned
+39,Mumbai,Free,18,427,23,46,Burgers,iOS,22,Retained
+59,Thane,Premium,10,570,69,34,Indian,Web,13,Churned
+23,Mumbai,Premium,8,845,33,18,Pizza,Web,25,Churned
+32,Navi Mumbai,Free,18,664,61,7,Burgers,iOS,48,Retained
+60,Navi Mumbai,Free,1,852,66,25,Chinese,Android,18,Churned
+54,Navi Mumbai,Premium,8,168,28,70,Pizza,iOS,12,Churned
+50,Mumbai,Free,6,172,70,29,Mexican,Web,40,Churned
+25,Thane,Premium,5,562,52,6,Indian,iOS,17,Retained
+22,Thane,Free,15,257,67,66,Pizza,Web,15,Churned
+56,Mumbai,Premium,15,285,50,64,Pizza,Web,42,Retained
+21,Thane,Premium,2,511,54,35,Mexican,Web,15,Churned
+23,Mumbai,Premium,1,278,31,24,Burgers,iOS,15,Churned
+49,Thane,Free,11,664,44,36,Chinese,Web,39,Churned
+47,Pune,Premium,10,598,23,0,Mexican,Web,13,Retained
+52,Pune,Premium,18,1023,47,14,Chinese,iOS,17,Retained
+57,Navi Mumbai,Free,18,622,70,36,Burgers,Web,32,Retained
+33,Pune,Premium,17,1183,66,12,Pizza,iOS,9,Retained
+30,Pune,Free,8,451,39,7,Chinese,Web,40,Retained
+59,Pune,Free,15,380,28,4,Indian,Android,20,Retained
+47,Mumbai,Free,8,1072,25,59,Indian,Android,26,Retained
+36,Pune,Free,17,1086,67,72,Mexican,Web,27,Churned
+34,Pune,Free,12,261,49,0,Burgers,Android,21,Retained
+36,Navi Mumbai,Premium,8,1186,55,35,Mexican,iOS,18,Retained
+45,Pune,Free,14,649,28,34,Mexican,Android,13,Retained
+43,Pune,Premium,4,1081,44,65,Mexican,Web,16,Retained
+54,Thane,Free,1,747,55,62,Indian,Web,9,Churned
+43,Navi Mumbai,Free,1,383,18,22,Indian,iOS,12,Retained
+40,Navi Mumbai,Free,19,751,18,8,Mexican,Web,44,Retained
+26,Navi Mumbai,Premium,16,463,42,33,Indian,iOS,38,Retained
+29,Navi Mumbai,Free,14,715,22,45,Burgers,Android,19,Churned
+18,Navi Mumbai,Premium,16,1185,16,77,Mexican,Android,7,Retained
+18,Navi Mumbai,Premium,5,358,55,3,Indian,iOS,35,Retained
+51,Mumbai,Premium,9,1187,60,29,Chinese,iOS,48,Retained
+49,Pune,Free,2,1193,36,94,Mexican,Web,18,Churned
+42,Navi Mumbai,Free,18,736,55,74,Mexican,Android,16,Churned
+57,Pune,Premium,6,1164,70,98,Burgers,iOS,39,Churned
+18,Pune,Free,9,847,69,71,Pizza,Android,4,Churned
+33,Mumbai,Premium,1,281,30,2,Pizza,iOS,25,Retained
+56,Navi Mumbai,Free,9,1193,43,13,Burgers,Android,32,Retained
+22,Thane,Premium,16,685,63,59,Burgers,Web,40,Retained
+39,Mumbai,Premium,13,1163,62,76,Burgers,Android,13,Churned
+46,Thane,Premium,9,376,44,44,Pizza,Android,45,Churned
+20,Pune,Free,13,971,26,95,Burgers,Android,17,Churned
+29,Pune,Premium,9,1020,49,33,Indian,Android,37,Churned
+43,Mumbai,Free,11,554,25,44,Mexican,Android,6,Retained
+33,Mumbai,Free,4,351,60,60,Mexican,Web,19,Churned
+54,Thane,Premium,2,187,64,82,Chinese,iOS,13,Churned
+39,Navi Mumbai,Premium,6,1091,35,15,Chinese,Android,26,Retained
+46,Thane,Premium,14,337,35,65,Mexican,Web,14,Retained
+31,Mumbai,Premium,4,1090,19,39,Indian,Android,31,Retained
+45,Thane,Free,6,1193,62,16,Pizza,Android,4,Churned
+22,Mumbai,Free,19,422,34,33,Pizza,iOS,39,Churned
+47,Thane,Premium,6,732,51,15,Indian,Android,8,Retained
+22,Mumbai,Free,2,665,17,59,Pizza,Web,25,Churned
+29,Mumbai,Free,18,675,58,65,Burgers,Web,13,Churned
+33,Mumbai,Free,13,485,47,65,Mexican,iOS,32,Retained
+43,Navi Mumbai,Free,9,847,67,89,Mexican,Android,38,Retained
+43,Thane,Free,19,649,23,12,Indian,Web,38,Retained
+38,Thane,Free,13,1049,23,55,Pizza,Android,28,Retained
+56,Thane,Free,11,915,18,30,Chinese,Android,30,Retained
+53,Mumbai,Free,1,685,49,33,Chinese,Android,3,Churned
+50,Thane,Premium,7,311,31,38,Pizza,iOS,28,Retained
+47,Thane,Free,15,743,48,66,Chinese,Android,3,Churned
+54,Mumbai,Free,1,308,38,7,Indian,Web,45,Churned
+40,Pune,Premium,12,209,46,86,Indian,Android,34,Retained
+27,Mumbai,Free,7,1064,15,77,Pizza,Web,16,Churned
+22,Thane,Premium,15,360,22,54,Chinese,Android,22,Retained
+53,Mumbai,Premium,19,555,59,26,Indian,Web,32,Retained
+51,Pune,Free,1,813,37,92,Indian,Web,38,Churned
+48,Mumbai,Free,17,691,61,52,Burgers,Android,8,Churned
+27,Thane,Premium,17,1147,54,38,Burgers,Android,8,Churned
+36,Pune,Premium,3,1076,26,64,Indian,Web,6,Churned
+49,Navi Mumbai,Free,12,1017,68,16,Pizza,iOS,14,Retained
+18,Thane,Premium,6,168,26,29,Mexican,Android,32,Retained
+22,Pune,Free,11,581,60,52,Mexican,iOS,35,Retained
+21,Pune,Premium,3,889,61,12,Indian,Android,10,Churned
+33,Navi Mumbai,Free,8,332,29,20,Indian,Android,3,Retained
+41,Mumbai,Premium,14,262,55,18,Indian,Android,12,Retained
+33,Mumbai,Premium,14,630,33,52,Pizza,Android,31,Retained
+19,Thane,Premium,10,980,40,18,Burgers,iOS,29,Retained
+45,Navi Mumbai,Free,2,912,66,56,Indian,Android,5,Churned
+49,Mumbai,Free,14,625,43,24,Indian,Web,25,Retained
+44,Navi Mumbai,Free,9,912,36,85,Chinese,Web,41,Churned
+37,Mumbai,Free,3,1120,54,30,Pizza,iOS,31,Retained
+41,Pune,Free,8,1169,35,80,Indian,Android,21,Churned
+29,Mumbai,Premium,16,310,65,54,Chinese,Web,20,Churned
+52,Navi Mumbai,Free,2,550,52,22,Mexican,iOS,39,Churned
+50,Pune,Free,6,347,34,31,Indian,Android,22,Retained
+50,Pune,Premium,12,809,43,61,Indian,Web,4,Retained
+60,Pune,Premium,5,548,65,73,Chinese,Web,13,Retained
+54,Navi Mumbai,Premium,2,227,18,9,Pizza,iOS,45,Retained
+29,Thane,Premium,16,273,69,99,Indian,Android,42,Retained
+20,Thane,Free,5,224,21,71,Mexican,Android,20,Retained
+18,Thane,Free,15,286,42,53,Indian,Web,13,Churned
+50,Navi Mumbai,Premium,12,751,42,51,Mexican,Web,17,Retained
+57,Pune,Premium,4,986,18,19,Burgers,Web,36,Retained
+27,Thane,Free,15,649,36,31,Burgers,Android,33,Retained
+60,Navi Mumbai,Premium,11,287,26,13,Mexican,iOS,1,Retained
+46,Thane,Free,16,199,59,49,Pizza,iOS,15,Retained
+30,Mumbai,Free,6,1122,17,27,Indian,Android,13,Retained
+29,Thane,Free,14,403,36,52,Indian,iOS,17,Retained
+48,Thane,Free,18,859,58,23,Burgers,Web,24,Retained
+19,Pune,Free,12,712,16,78,Mexican,iOS,8,Retained
+52,Navi Mumbai,Free,11,906,38,21,Indian,iOS,27,Retained
+40,Pune,Premium,13,696,48,29,Indian,iOS,45,Retained
+34,Pune,Free,11,1071,41,62,Pizza,Web,23,Retained
+43,Pune,Free,16,730,69,3,Chinese,Android,46,Churned
+25,Pune,Premium,15,198,55,76,Burgers,Web,8,Retained
+46,Pune,Premium,15,1066,15,58,Burgers,Android,8,Retained
+43,Thane,Premium,4,853,22,86,Chinese,Android,26,Churned
+27,Pune,Premium,11,410,37,7,Indian,Android,47,Retained
+43,Pune,Premium,19,505,52,81,Pizza,iOS,13,Churned
+51,Navi Mumbai,Free,15,787,20,11,Pizza,iOS,39,Retained
+58,Mumbai,Free,4,892,36,30,Burgers,Android,37,Retained
+24,Thane,Free,13,1159,39,77,Pizza,Android,28,Retained
+21,Thane,Free,19,1080,32,33,Chinese,iOS,25,Retained
+28,Thane,Free,2,790,31,81,Indian,Web,16,Churned
+46,Pune,Premium,14,941,26,97,Chinese,Android,2,Retained
+53,Pune,Free,4,761,20,74,Mexican,Web,18,Retained
+42,Pune,Free,16,958,40,75,Burgers,iOS,17,Retained
+38,Navi Mumbai,Free,20,835,41,48,Pizza,Android,30,Retained
+53,Mumbai,Premium,14,337,22,78,Mexican,Web,39,Retained
+27,Pune,Free,15,1134,33,56,Pizza,Web,13,Retained
+54,Mumbai,Premium,3,697,56,94,Indian,Web,32,Churned
+26,Navi Mumbai,Free,8,874,15,92,Indian,iOS,29,Churned
+41,Thane,Free,16,1075,43,25,Indian,iOS,46,Retained
+52,Pune,Free,10,1025,59,17,Pizza,Web,30,Retained
+52,Mumbai,Premium,4,767,63,95,Mexican,Web,18,Churned
+53,Mumbai,Free,18,563,49,85,Indian,iOS,13,Churned

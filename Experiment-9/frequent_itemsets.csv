@@ -1,0 +1,62 @@
+support,itemsets,length
+0.622,Subscription_Type=Free,1
+0.618,Churn=Retained,1
+0.382,Churn=Churned,1
+0.378,Subscription_Type=Premium,1
+0.36,"Churn=Retained, Subscription_Type=Free",2
+0.342,Device=Android,1
+0.33,Device=iOS,1
+0.328,Device=Web,1
+0.29,City=Mumbai,1
+0.262,"Churn=Churned, Subscription_Type=Free",2
+0.258,"Churn=Retained, Subscription_Type=Premium",2
+0.25,City=Pune,1
+0.244,City=Thane,1
+0.224,Favorite_Category=Indian,1
+0.222,"Churn=Retained, Device=iOS",2
+0.216,City=Navi Mumbai,1
+0.214,"Churn=Retained, Device=Android",2
+0.214,"Device=Web, Subscription_Type=Free",2
+0.208,Favorite_Category=Burgers,1
+0.206,"Device=iOS, Subscription_Type=Free",2
+0.204,Favorite_Category=Mexican,1
+0.202,"Device=Android, Subscription_Type=Free",2
+0.192,Favorite_Category=Pizza,1
+0.184,"City=Mumbai, Subscription_Type=Free",2
+0.182,"Churn=Retained, City=Mumbai",2
+0.182,"Churn=Retained, Device=Web",2
+0.172,Favorite_Category=Chinese,1
+0.164,"City=Pune, Subscription_Type=Free",2
+0.158,"Churn=Retained, City=Pune",2
+0.152,"Churn=Retained, City=Thane",2
+0.146,"Churn=Churned, Device=Web",2
+0.144,"Favorite_Category=Indian, Subscription_Type=Free",2
+0.14,"Churn=Retained, Device=iOS, Subscription_Type=Free",3
+0.14,"Device=Android, Subscription_Type=Premium",2
+0.138,"City=Thane, Subscription_Type=Free",2
+0.138,"Churn=Retained, Favorite_Category=Indian",2
+0.136,"City=Navi Mumbai, Subscription_Type=Free",2
+0.13,"Churn=Retained, Favorite_Category=Mexican",2
+0.128,"Churn=Churned, Device=Android",2
+0.126,"Churn=Retained, City=Navi Mumbai",2
+0.126,"Favorite_Category=Mexican, Subscription_Type=Free",2
+0.126,"Churn=Retained, Favorite_Category=Burgers",2
+0.124,"Favorite_Category=Burgers, Subscription_Type=Free",2
+0.124,"Device=iOS, Subscription_Type=Premium",2
+0.122,"Favorite_Category=Pizza, Subscription_Type=Free",2
+0.12,"Churn=Retained, Favorite_Category=Pizza",2
+0.12,"Churn=Churned, Subscription_Type=Premium",2
+0.114,"Device=Web, Subscription_Type=Premium",2
+0.112,"Churn=Retained, Device=Android, Subscription_Type=Free",3
+0.108,"Churn=Retained, City=Mumbai, Subscription_Type=Free",3
+0.108,"Churn=Churned, City=Mumbai",2
+0.108,"Churn=Retained, Device=Web, Subscription_Type=Free",3
+0.108,"Churn=Churned, Device=iOS",2
+0.106,"Churn=Churned, Device=Web, Subscription_Type=Free",3
+0.106,"Favorite_Category=Chinese, Subscription_Type=Free",2
+0.106,"City=Thane, Subscription_Type=Premium",2
+0.106,"City=Mumbai, Device=Web",2
+0.106,"City=Mumbai, Subscription_Type=Premium",2
+0.104,"Churn=Retained, Favorite_Category=Chinese",2
+0.102,"City=Mumbai, Device=Android",2
+0.102,"Churn=Retained, Device=Android, Subscription_Type=Premium",3
