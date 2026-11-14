@@ -7,7 +7,7 @@ Apriori frequent itemsets and association rules (support, confidence, lift) with
 
 ## Files
 - `Experiment-9_Apriori_Association_Rule_Mining.ipynb` — executed notebook
-- `DMBI_Experiment_9_Apriori_Association_Rule_Mining_Ronit_Ahuja.docx` — report
+- `DMBI_Experiment_9_Apriori_Association_Rule_Mining_Ronit_Ahuja.pdf` — report
 - `frequent_itemsets.csv`, `association_rules.csv`, `frequent_itemsets_graph.png`, `Experiment9_Graphs.png` — outputs
 - `Food_Delivery_Customer_Churn.csv` — dataset
 

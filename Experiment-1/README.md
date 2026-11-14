@@ -6,4 +6,4 @@
 Design a Star Schema and a Snowflake Schema (fact + dimension tables) for a Food Delivery Management System.
 
 ## Files
-- DMBI_Experiment_1_Star_Snowflake_Schema_Ronit_Ahuja.docx — report with both schema diagrams, comparison table and sample OLAP queries.
+- DMBI_Experiment_1_Star_Snowflake_Schema_Ronit_Ahuja.pdf — report with both schema diagrams, comparison table and sample OLAP queries.

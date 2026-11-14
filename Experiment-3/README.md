@@ -7,8 +7,7 @@ EDA on a 15-record Food Delivery Management sample: inspection, central tendency
 
 ## Files
 - `Experiment-3_EDA_Visualization.ipynb` — executed notebook
-- `DMBI_Experiment_3_EDA_Visualization_Ronit_Ahuja_CORRECTED.docx` — report regenerated from the notebook's real outputs
-- `DMBI Experiment 3 - EDA and Data Visualization.pdf` — original report (its tables do not match the code output; use the corrected one)
+- `DMBI_Experiment_3_EDA_Visualization_Ronit_Ahuja.pdf` — report generated from the notebook's real outputs
 
 ## Key results
 Mean delivery time 36.33 min; corr(delivery time, rating) = −0.97; corr(delivery time, order amount) = +0.88.
