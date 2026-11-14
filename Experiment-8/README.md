@@ -6,7 +6,7 @@
 Mine frequent itemsets and association rules from City, Subscription_Type, Favorite_Category, Device and Churn of the Food Delivery Customer Churn dataset with FP-Growth and Create Association Rules in Altair AI Studio.
 
 ## Files
-- `DMBI_Experiment_8_FPGrowth_RapidMiner_Ronit_Ahuja.pdf` — report
+- `DMBI_Experiment_8_FPGrowth_RapidMiner_Ronit_Ahuja.pdf` — report (includes AI Studio screenshots of the process and the frequent itemsets)
 - `Experiment_8_FPGrowth_RapidMiner.rmp` — RapidMiner process (Retrieve → Select Attributes → Nominal to Binominal → FP-Growth → Create Association Rules → Item Sets to Data)
 - `Food_Delivery_Customer_Churn.csv` — dataset
 
