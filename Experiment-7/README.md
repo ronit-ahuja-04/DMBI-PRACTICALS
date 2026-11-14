@@ -19,3 +19,16 @@ Segment the Food Delivery Customer Churn dataset in Altair AI Studio with k-Mean
 | DBSCAN | eps 0.8, minPts 5 | 4 clusters (439, 5, 5, 7) | 44 | −0.0305 |
 
 k-Means gives the most useful segmentation; DBSCAN suits outlier detection more than segmentation on this evenly spread data.
+
+## Running the processes
+The `.rmp` files read the dataset from the AI Studio repository entry `//Local Repository/Food_Delivery_Customer_Churn (1)`. Import `Food_Delivery_Customer_Churn.csv` into the Local Repository under that name (or change the Retrieve operator) and run.
+
+## DBSCAN epsilon check (RapidMiner, minPts = 5)
+| Epsilon | Clusters | Noise points |
+|---|---|---|
+| 0.5 | 5 | 469 |
+| 0.6 | 17 | 352 |
+| 0.7 | 8 | 163 |
+| 0.8 | 4 | 44 |
+| 0.9 | 2 | 4 |
+| 1.0 | 1 | 1 |
