@@ -7,7 +7,8 @@ Handle missing values, remove duplicates, label-encode categorical data and scal
 
 ## Files
 - `DMBI Practical Journal - Experiment 2 - Ronit Ahuja.pdf` — report
-- `Experiment-2_Data_Preprocessing.ipynb` — Colab notebook (sample data is generated inside the notebook)
+- `Experiment-2_Data_Preprocessing.ipynb` — executed notebook (sample data is generated inside it; runs in Colab or locally)
+- `Preprocessed_Food_Delivery.xlsx` — exported cleaned dataset
 
 ## Key results
 10 rows → 9 rows after duplicate removal; 4 missing values → 0.
