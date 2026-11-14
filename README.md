@@ -24,6 +24,6 @@ Python notebooks run in Google Colab or locally (keep the CSV in the same folder
 
 | Folder | Contents |
 |---|---|
-| [CA1_Customer_Segmentation](CA1_Customer_Segmentation) | Proof of Concept (`POC.pdf`) and slides (`ppt.pdf`) |
-| [CA2_Customer_Segmentation_App](CA2_Customer_Segmentation_App) | Streamlit app, Colab notebook and run instructions |
-| [CA3_Uplift_Modelling](CA3_Uplift_Modelling) | Slides, editable PPTX and presentation script |
+| [CA/CA1_Customer_Segmentation](CA/CA1_Customer_Segmentation) | Proof of Concept (`POC.pdf`) and slides (`ppt.pdf`) |
+| [CA/CA2_Customer_Segmentation_App](CA/CA2_Customer_Segmentation_App) | Streamlit app, Colab notebook and run instructions |
+| [CA/CA3_Uplift_Modelling](CA/CA3_Uplift_Modelling) | Slides, editable PPTX and presentation script |
