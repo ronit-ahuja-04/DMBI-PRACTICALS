@@ -19,3 +19,11 @@ Dataset for Exp 4–9: `Food_Delivery_Customer_Churn.csv` (500 records, 11 attri
 | [9](Experiment-9) | Association Rule Mining using Apriori (Python) |
 
 Python notebooks run in Google Colab or locally (keep the CSV in the same folder as the notebook).
+
+## Continuous Assessment (CA)
+
+| Folder | Contents |
+|---|---|
+| [CA1_Customer_Segmentation](CA1_Customer_Segmentation) | Proof of Concept (`POC.pdf`) and slides (`ppt.pdf`) |
+| [CA2_Customer_Segmentation_App](CA2_Customer_Segmentation_App) | Streamlit app, Colab notebook and run instructions |
+| [CA3_Uplift_Modelling](CA3_Uplift_Modelling) | Slides, editable PPTX and presentation script |
